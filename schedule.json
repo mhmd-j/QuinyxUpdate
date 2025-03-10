@@ -1,0 +1,41 @@
+[
+  {
+    "date": "2025-03-08",
+    "schedule": [
+      {"scheduleId": 2001, "employeeId": 1001, "startTime": "09:00", "endTime": "17:00", "role": "Cashier"},
+      {"scheduleId": 2002, "employeeId": 1003, "startTime": "10:00", "endTime": "18:00", "role": "Manager"},
+      {"scheduleId": 2003, "employeeId": 1005, "startTime": "11:00", "endTime": "19:00", "role": "Sales Associate"},
+      {"scheduleId": 2004, "employeeId": 1007, "startTime": "12:00", "endTime": "20:00", "role": "Stock Clerk"},
+      {"scheduleId": 2005, "employeeId": 1009, "startTime": "08:00", "endTime": "16:00", "role": "Cashier"},
+      {"scheduleId": 2006, "employeeId": 1011, "startTime": "09:30", "endTime": "17:30", "role": "Manager"},
+      {"scheduleId": 2007, "employeeId": 1013, "startTime": "10:30", "endTime": "18:30", "role": "Sales Associate"},
+      {"scheduleId": 2008, "employeeId": 1015, "startTime": "11:30", "endTime": "19:30", "role": "Stock Clerk"}
+    ]
+  },
+  {
+    "date": "2025-03-09",
+    "schedule": [
+      {"scheduleId": 2009, "employeeId": 1002, "startTime": "08:30", "endTime": "16:30", "role": "Cashier"},
+      {"scheduleId": 2010, "employeeId": 1004, "startTime": "09:45", "endTime": "17:45", "role": "Manager"},
+      {"scheduleId": 2011, "employeeId": 1006, "startTime": "10:15", "endTime": "18:15", "role": "Sales Associate"},
+      {"scheduleId": 2012, "employeeId": 1008, "startTime": "11:45", "endTime": "19:45", "role": "Stock Clerk"},
+      {"scheduleId": 2013, "employeeId": 1010, "startTime": "08:45", "endTime": "16:45", "role": "Cashier"},
+      {"scheduleId": 2014, "employeeId": 1012, "startTime": "09:15", "endTime": "17:15", "role": "Manager"},
+      {"scheduleId": 2015, "employeeId": 1014, "startTime": "10:00", "endTime": "18:00", "role": "Sales Associate"},
+      {"scheduleId": 2016, "employeeId": 1016, "startTime": "11:00", "endTime": "19:00", "role": "Stock Clerk"}
+    ]
+  },
+  {
+    "date": "2025-03-10",
+    "schedule": [
+      {"scheduleId": 2017, "employeeId": 1003, "startTime": "08:00", "endTime": "16:00", "role": "Cashier"},
+      {"scheduleId": 2018, "employeeId": 1005, "startTime": "09:30", "endTime": "17:30", "role": "Manager"},
+      {"scheduleId": 2019, "employeeId": 1007, "startTime": "10:30", "endTime": "18:30", "role": "Sales Associate"},
+      {"scheduleId": 2020, "employeeId": 1009, "startTime": "11:30", "endTime": "19:30", "role": "Stock Clerk"},
+      {"scheduleId": 2021, "employeeId": 1011, "startTime": "08:30", "endTime": "16:30", "role": "Cashier"},
+      {"scheduleId": 2022, "employeeId": 1013, "startTime": "09:45", "endTime": "17:45", "role": "Manager"},
+      {"scheduleId": 2023, "employeeId": 1015, "startTime": "10:15", "endTime": "18:15", "role": "Sales Associate"},
+      {"scheduleId": 2024, "employeeId": 1017, "startTime": "11:45", "endTime": "19:45", "role": "Stock Clerk"}
+    ]
+  }
+]
